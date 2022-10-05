@@ -1,0 +1,1858 @@
+USO DE TWITTER EN LA EMPRESA MEXICANA: UN MODELO DE 
+ANÁLISIS. 
+Rodrigo Sandoval-Almazan* 
+Rosa María Nava Rogel* 
+ 
+Resumen 
+A lo largo del día escribimos mensajes y contestamos llamadas para recolectar, 
+clasificar y enviar información. Estas interacciones entre la tecnología-información-
+personas generan redes de contactos que aprovechamos en nuestro trabajo o en la vida 
+diaria. Estos procesos de comunicación se han potenciado con el uso de la tecnología de 
+información y comunicación (TIC). Las redes sociales a través de Internet y de los 
+distintos dispositivos conectados a ella, han acelerado y fomentado la comunicación 
+entre las empresas y las personas. Dada la novedad de estas herramientas, muy poco se 
+ha investigado al respecto, a pesar de que ya muchas compañías han comenzado a 
+utilizar las plataformas de redes sociales. El objetivo de esta investigación es proponer 
+un modelo que ayude a medir el impacto que han tenido las nuevas tecnologías de redes 
+sociales dentro de las empresas.  Para ello, se propone un modelo que agrupa elementos 
+de Twitter. Para construirlo se recolectaron datos sobre el uso de plataformas de redes 
+sociales y se visitaron los sitios web de una muestra de diez y siete empresas mexicanas 
+líderes en su ramo y que utilizan estas plataformas para comunicarse con clientes, 
+proveedores y público en general. El artículo se divide en cinco apartados, la 
+introducción discute sobre la pertinencia del estudio de redes sociales; la segunda 
+sección hace una recopilación de la literatura sobre este tema; la tercera sección 
+describe la situación de las redes sociales en México, en la cuarta se describe el modelo 
+propuesto y en la quinta sección se encuentra una discusión sobre los hallazgos y las 
+líneas de investigación futuras.  
+ 
+Palabras clave 
+Social media, redes sociales, twitter, empresas, estrategia. 
+ 
+Abstract 
+Social networking through the internet and other devices connected to it, have 
+accelerated and fostered communication between companies and individuals. The 
+objective of this research is to propose a model that helps to measure the impact that 
+new technologies have social networks within companies. To this end, we propose a 
+model that collects data from Twitter features. In order to prove our model we collected 
+data on a sample of seventeen leading Mexican companies in its sector and use these 
+social media platform. The article is divided into five sections, the introduction 
+discusses the relevance of the study of social networks, the second section a collection 
+of literature on this subject, the third section describes the status of social networks in 
+Mexico, in the fourth describes the proposed model and the fifth section describes the 
+discussion on the findings and future research lines. 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+1. Introducción 
+Para Manuel Castells (CASTELLS, 2009) la práctica empresarial ha cambiado bajo una 
+empresa en red, que es flexible, que comparte información y conocimiento para ganar 
+una cuota de mercado. Dice Castells (p.60): “La unidad de proceso productivo no es la 
+empresa, sino el proyecto empresarial, representado por una red”. Estas nuevas 
+compañías que se encuentran en la mira de la nueva economía son las compañías 
+disqueras que cada vez venden más a través de medios digitales – teléfonos celulares y 
+computadoras – o bien los medios de comunicación – prensa en especial – que ven 
+mermados sus ingresos por el alto impacto que tienen los medios electrónicos – Internet 
+– para transmitir, comentar y discutir información al minuto. 
+Las empresas manufactureras, los productores de bienes de consumo en la era fordista 
+(CASTELLS, 2009) se han dado cuenta que sólo mediante alianzas e intercambio de 
+información, pueden mantenerse en un mercado exigente y cada vez más competitivo. 
+Alianzas estratégicas entre compañías de automóviles – Nissan-Renault – las compañías 
+de alimentos – Moctezuma-Heineken- van a la par de las compañías que producen 
+computadoras o electrónicos – Google, Microsoft, Mac, etcétera – cuyas alianzas con 
+proveedores de contenidos – CNN, CBS, NYT – y otras empresas de comercialización 
+de bienes de conocimiento como libros – Amazon-Kindle, Barnes and Noble, IPAD-
+Mac – obligan a pensar que los mercados se están moviendo en dinámicas nuevas y 
+veloces que si las empresas no se transforman, no podrán alcanzar.  
+De esta forma una empresa es solamente un punto de una gran red de contactos, 
+interacciones y múltiples redes y nodos que se integran entre sí. La hypermediación, 
+donde miles o millones de clientes potenciales pueden acceder a productos alrededor del 
+mundo, permite que los costos de publicidad y de cobranza disminuyan e incluso se 
+pulvericen (CARR, 2000). 
+Esto ocurre porque los trabajadores de las empresas han cambiado su forma de trabajo 
+alentados por el uso de la tecnología de información y comunicación. Hoy en día los 
+trabajadores pueden clasificarse en tres: los que son fuente de innovación y valor, los 
+que obedecen instrucciones y lo que son irrelevantes porque carecen de la formación 
+suficiente o no tienen infraestructura para sobrevivir (CASTELLS, 2009). 
+Este tipo de trabajadores que defienden el uso de su correo electrónico, su cuenta de 
+Twitter o el uso de Facebook para comunicarse y que sus jefes pretenden controlar o 
+restringir (VÁZQUEZ y MÉNDEZ., 2009), son el mismo grupo de empleados 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+innovadores que están haciendo cientos de transacciones al día para su empresa, 
+generando dinero a través del uso de la tecnología.  
+Estos empleados que están “conectados” o enlazados con otros de diferentes compañías, 
+son los que mueven al mundo empresarial. Sus “relaciones interpersonales” crecen y se 
+reproducen a través de las redes sociales, dado que hoy se pueden comunicar 
+diariamente con sus proveedores, sus clientes y sus amigos o familiares, que a su vez 
+recomiendan para que tengan otros contactos. 
+Estas “redes empresariales” de contactos humanos, aún no se han contabilizado. 
+Desconocemos su impacto y trascendencia en los negocios, apenas tenemos una idea 
+primaria de a dónde pueden llegar. Un grupo consultor español, N-Economía ha 
+realizado un estudio de tendencias de cómo las redes sociales impactarán a las empresas 
+y pronostican para el 2012 el uso de microblogging, mientras para el 2015 se harán 
+análisis de redes sociales y el uso de telefonía inteligente con aplicaciones 
+personalizadas para generar negocios (DURAN, 2010). 
+Esta tendencia empresarial, es resultado de cambios sociales más profundos y 
+estructurales que están ocurriendo en todo el mundo y que han sido el resultado de una 
+tendencia social cada vez más profunda. Los estudiantes en Irán y los opositores al 
+gobierno recién electo enviaron mensajes de texto al mundo – a través de Twitter -  para 
+denunciar sobre la represión que estaban sufriendo todos los días de parte de su 
+gobierno. Recientemente las revelaciones electrónicas del sitio wikileaks, acerca de la 
+muerte de civiles y la tortura de policías en Afganistán ha puesto en evidencia los 
+excesos de los soldados norteamericanos. Los seguidores de FarmVille en el espacio 
+social de Facebook recaudaron un millón de dólares para donarlos a los damnificados de 
+Haití. En los Estados Unidos, el presidente Barack Obama llega al poder producto del 
+uso de redes sociales - Hi5, Facebook, entre otras - para recaudar fondos, difundir y 
+debatir su propuesta de campaña. Actualmente ha implementado en su gobierno 
+tecnologías de social media para mejorar los procesos internos de su gobierno. 
+En México, el impulso que tuvo el movimiento ciudadano del “voto nulo” previo a las 
+elecciones del 2009, se originó en un grupo abierto en la red social de Facebook por un 
+activista de Guadalajara. En ese mismo año, el debate en el Congreso de la Unión, en 
+particular en la Cámara de senadores tuvo que tomar en cuenta a un importante grupo de 
+ciudadanos quienes convocados mediante la red social de Twitter, logran detener un 
+impuesto a Internet que había sido aprobado por la cámara baja y que los senadores 
+detuvieron en su momento. Al colocar el tema, después de más cien mil mensajes en 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+esta red, los Twitteros mexicanos, presionaron para ser recibidos por los senadores y 
+lograr su cometido. 
+En un esfuerzo similar aunque controvertido, algunos ciudadanos de la capital del país 
+lograron evadir los retenes policíacos del alcoholímetro usando la red social de Twitter 
+enviando la ubicación exacta para poder ser evadidos. Mismos que posteriormente 
+fueron amenazados y sancionados por la autoridad, aunque existe la laguna legal para 
+detenerlos. 
+Un estudiante del Instituto Tecnológico de Estudios Superiores de Monterrey envía en 
+Twitter mensajes relatando la intromisión de los militares en el Campus Monterrey, así 
+como dando a conocer la muerte de dos estudiantes, mismos que fueron calificados en 
+un inicio como sicarios, y posterior a la revelación de este Twitter se reconocieron como 
+estudiantes de dicha institución. Desafiando así a los medios de comunicación y a los 
+reportes de prensa de la procuraduría estatal y federal. 
+El coordinador de los diputados federales del Partido Revolucionario Institucional, gasta 
+un millón quinientos mil pesos en dotar a los diputados de un IPAD para 254 
+congresistas mexicanos, argumentando que quien no estuviera cerca de la tecnología 
+sería un analfabeto. Uno de esos diputados  fotografía con su teléfono celular  a uno de 
+sus colegas dormido durante la sesión y circuló la foto a través de Twitter, generando un 
+escándalo en medios y dentro del Congreso. 
+Estos ejemplos y muchos otros demuestran la existencia de redes sociales articuladas 
+mediante el uso de la tecnología que están presionando, colaborando y promoviendo 
+intereses al interior de las sociedades, en las empresas y en el gobierno. Sin embargo, 
+una pregunta emerge como producto de estos cambios: ¿el uso de las tecnologías de 
+redes sociales - en particular Facebook y Twitter – están siendo útiles para las 
+empresas? Vinculada a esta duda: ¿cómo medir si estas tecnologías están siendo 
+utilizadas por empresas mexicanas? 
+Esta investigación tiene como objetivo arrojar algunas pistas que ayuden a responder 
+estas preguntas. Para ello, proponemos un modelo cuantitativo que permita ofrecer una 
+orientación sobre hacia dónde se dirigen estos esfuerzos y que no pierdan una dirección 
+ni tampoco un sentido. Para ello, es necesario recoger aquellos estudios sobre redes 
+sociales que usan tecnología y presentar los principales hallazgos que ayuden a poner 
+las bases de nuestra propuesta, lo cual es el objetivo del siguiente apartado.  
+ 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+2. Redes sociales en Teoría 
+Uno de los primeros estudiosos sobre las redes sociales son Katz y otros (2004) quienes 
+por primera vez realizan un análisis de la teoría de redes y los grupos sociales con el uso 
+de la tecnología. Kumar, Novak y Tomkins (2006) hace una recopilación sobre la 
+evolución y las distintas estructuras de las redes sociales en línea. Ellison y Boyd (2007) 
+han planteado una definición sobre estos sitios de comunicación. Hargittai  (2007)  y 
+Liu (2007) estudian sobre  las diferencias entre los distintos perfiles de usuarios, gustos 
+e intereses. Liccardi (2007) se centra en cómo se organizan los estudiantes con las redes 
+sociales. Krishnamurthy y Wills (2008) se enfocan a la privacidad en línea. Williams y 
+Durrance (2008) analizan a las redes sociales bajo el concepto del capital social que 
+planteó Putnam. Hay (2008) analiza el tema del anonimato en las redes sociales y su 
+influencia en la composición de éstas. Gayatri  (2008),  Swamynathan y otros (2008) 
+van  más allá,  afirmando con sus investigaciones que las redes sociales tienen un fuerte 
+impacto en el comercio electrónico. La contribución teórica de Williams y Durrance 
+(2008) sobre del impacto de las redes sociales y el capital social, es fundamental para 
+entender cómo se han construido estas comunidades virtuales de contactos y redes 
+interpersonales.  No obstante, en los últimos dos años la investigación en este campo ha 
+tenido un fuerte impulso, por ejemplo, Sylvie (2009) que analiza las redes sociales a 
+partir de una comunidad que se está gestando en torno al uso de la tecnología; Siegel 
+(2009) analiza las redes sociales a partir de la acción colectiva o de protesta. 
+Baumgartner y Morris (2010) y Collin (2010) analizan cómo los ciudadanos se vinculan 
+políticamente a través de estas tecnologías de redes sociales, el primero se enfoca en los 
+adultos y el segundo en los jóvenes. Dutton (2009) vincula las redes sociales con la 
+construcción de un nuevo estado. 
+Fuchs (2010) analiza el impacto de los llamados: “Social Networking Sites” (SNS) a 
+partir de tres diferentes teóricos para explicar las contradicciones existentes entre los 
+sitios y su relación con los usuarios. Finalmente, Zhang y otros (2010) presentan 
+evidencia que demuestra la relación existente entre los sitios de redes sociales y la 
+participación ciudadana.  
+Este conjunto de estudios enmarcan un tema que por la velocidad de su aparición, aún 
+no se encuentra claramente definido y establecido. Ya que todavía no existe una 
+definición absoluta sobre lo que se ha denominado: social media como la plataforma 
+tecnológica de las redes sociales, tampoco se conocen los límites del campo de estudio – 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+si estos abarcan sólo sitios de redes, aplicaciones o blogs – mucho menos existen datos 
+sobre su penetración en el gobierno, la comunicación y la sociedad en general.  
+ 
+3. Redes Sociales en México 
+ 
+El uso de internet ha crecido de manera acelerada en los últimos años en México. En el 
+año 2000 el país contaba con 2.8 millones de usuarios de Internet y sólo doscientas 
+cincuenta y cinco ciudades tenían acceso; las localidades con conexión pública a 
+Internet pasaron de 2,776 en 2000 a 32,326 en 2006. Actualmente, según el último 
+estudio de la AMIPCI (2009),  existen 27.6 millones de internautas en el 2008, los 
+cuales representan una  la tasa de penetración nacional de Internet  de 29.7% en 
+mayores de 6 años. En este dato coincide el World Internet Project (2009). Lo que 
+significa 18.2 millones en computadoras personales totales. Esto es un crecimiento  de 
+23% respecto al año anterior. Según la AMIPCI, más del 77 por ciento de los mexicanos 
+ha leído un blog y 66 por ciento participa en una red social; de acuerdo a esta empresa el 
+34 por ciento utiliza el sitio Myspace, el 19 por ciento Hi5, 14 por ciento GeoCities y 
+Facebook sólo el 4 por ciento.  
+Otro estudio es el de la consultora CIU (The competitive Intelligence Unit), que hizo 
+una  encuesta fue telefónica con una muestra de 1,500 entrevistados. De esta encuesta 
+los jóvenes entre 16 a 25 años usan Internet y 87% de los mayores de 50 años se 
+conectan a la red. De estos, el 50% se conecta desde sus casas, el 22% desde el trabajo y 
+un 20% desde un cibercafé, sólo el 8% lo hace desde la escuela. Un 68% de la muestra 
+usa redes sociales, (el 48% de los encuestados sólo pertenecen a una red social, pero el 
+52% restante, es decir, la mayoría, tienen por lo menos acceso a dos o más redes En 
+cuanto a sitios de redes sociales, Hi5 se lleva el primer lugar con el 69 por ciento;  
+Facebook el 56%, MySpace el 24 por ciento, Twitter el 13 por ciento (MATUK, 2010). 
+Un estudio reciente publicado en internet sobre el uso de twitter indica que en agosto de 
+2009 habían 32 mil cuentas y sólo 8 mil 500 estaban activas. En este sentido, para enero 
+de 2010 la cantidad de cuentas totales creció cuatro veces su tamaño, mientras que las 
+cuentas activas creció un total de ocho veces. 
+Según Jasna Seguic de Comscore: "El crecimiento de la audiencia mexicana de Twitter 
+se multiplicó seis veces el año pasado, para así lograr el tercer lugar en penetración en 
+Latinoamérica y el octavo lugar a nivel mundial" (AGUAYO, 2010); datos de esta 
+misma empresa indican que el crecimiento de Twitter en México ha sido del 935% y de 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Facebook del 145% en el 2010 (COMSCORE y MARCHANT, 2010). Un estudio 
+reciente publicado en internet sobre el uso de Twitter, indica que en agosto de 2009 
+habían 32 mil cuentas y sólo 8 mil 500 estaban activas. En este sentido, para enero de 
+2010 la cantidad de cuentas totales creció cuatro veces su tamaño, mientras que las 
+cuentas activas creció un total de ocho veces. Según la revista de Mercadotecnia Merca 
+2.0, se estima que para Julio de  2010, existían 500 mil cuentas de Twitter en México 
+(VARGAS, 2010). 
+El estudio realizado por Mente Digital y publicado por Perez Bolde (2009) revela que 
+56% de los usuarios son hombres y 44% mujeres. Sin embargo, ellas publican hasta 2.5 
+veces más mensajes que los hombres. Estos elementos nos ofrecen una visión general 
+de cómo se encuentra el uso de las herramientas sociales en México.  
+4. Modelo propuesto  
+Las redes sociales como objeto de estudio tan cambiante y veloz, se encuentra  dentro 
+de los sistemas de información. La forma óptima de investigar esta área no es a través 
+de la investigación tradicional usada para las ciencias exactas (GALLIERS y MYERS 
+M, 2002), sino que al realizar una investigación en un campo con características 
+diferentes, habría que considerar otros elementos, como el cambio tan rápido de la 
+tecnología que impediría comprobar cualquier prueba bajo las mismas circunstancias. 
+Dice Sudweeks y Jones (1999: 38): “This lack of replication is a violation of the initial 
+assumptions for the application of statistical analysis”. Otro elemento que se debe 
+considerar, es que la investigación por Internet tiene que realizarse en estructuras 
+socioeconómicas y culturalmente heterogéneas – como es el caso de municipios, 
+urbanos o rurales, oficinas estatales y federales, etcétera - lo cual genera diversos 
+problemas en el diseño e implementación del estudio.  Finalmente, es necesario decir 
+que los sistemas de información es una ciencia aplicada y no una ciencia pura, por lo 
+tanto, el querer utilizar el método de estudio idéntico a las ciencias puras no ofrecería 
+resultados óptimos (BOUDREAU, 2001; GALLIERS y MYERS M, 2002: 15) Estas 
+razones diferencian a la investigación por Internet a través de un método cualitativo o 
+cuantitativo. 
+Aunque el tipo de investigación es exploratoria por no tener estudios antecedentes, se 
+trataron los datos con el propósito de descubrir relaciones entre variables (KERLINGER 
+y LEE, 2002), para definir un camino viable en investigaciones consecuentes. Se 
+agruparon las observaciones de las empresas analizadas considerando los tres tipos de 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+herramientas de las redes sociales de Twitter. Con ello, fue posible observar que existe 
+correlación entre ellas. A partir de este hallazgo, se estableció el peso que representa 
+cada herramienta con un análisis factorial (CHAUVIN y BOWDISH, 1998; DE 
+VICENTE, 2003; COSTELLO y OSBORNE, 2005). Finalmente se elaboró un índice de 
+uso de redes sociales (IRS) para las empresas estudiadas, que permite comprender 
+integralmente cómo han utilizado estas herramientas. A partir de dicho índice, se 
+propone un modelo evolutivo de madurez en el uso de social media, en específico en el 
+uso de twitter. El supuesto de este modelo es que entre mayor sea la interacción entre 
+los usuarios – tanto el emisor como el receptor del mensaje – se puede medir un flujo 
+que permita determinar el grado de madurez. 
+De esta forma, el modelo evolutivo mide dos variables: la participación y el flujo de 
+datos; se supone que entre mayor participación exista, hay más flujo de datos. Estas dos 
+variables permiten establecer cuatro etapas donde se intersectan ambas: 
+Etapa 1. Intercambio de información.- Participación mínima de la empresa con el 
+público y flujo de información escaso. 
+Etapa 2.  Colaboración.- Participación mínima de la empresa con el público, pero flujo 
+de información relevante. 
+Etapa 3. Cooperación.- Participación media de la empresa con el público y flujo de 
+información constante. 
+Etapa 4. Conocimiento.- Participación y flujo de información permanente. 
+ 
+Estas etapas describen cómo se construye una relación cliente-proveedor o cliente-
+empresa para intercambiar datos o conocimientos acerca de los productos o servicios de 
+cada uno de ellos (ver figura 1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura No. 1. Modelo de análisis de Redes Sociales  
+ 
+Fuente: elaboración propia 
+Las 17 empresas que conforman este estudio se seleccionaron por ser líderes en su 
+ramo, de acuerdo a información de la Bolsa Mexicana de Valores y que además tienen 
+una cuenta en Twitter. 
+ 
+Figura No.2 Muestra de compañías analizadas 
+Compañía 
+Dirección URL de TWITTER visitada 
+Banamex 
+http://twitter.com/banamex 
+CEMEX 
+http://twitter.com/cemex 
+Chrysler 
+http://twitter.com/ChryslerMX 
+Cinemex 
+http://twitter.com/cinemex 
+Cinepolis 
+http://twitter.com/CINEPOLISONLINE 
+Deportes Marti 
+http://twitter.com/DeportesMarti 
+Fundación Televisa 
+http://twitter.com/fundtelevisa 
+Herdez 
+http://twitter.com/Herdezmx 
+Honda México (usa) 
+http://twitter.com/Honda?utm_campaign=twitter2008
+0331162631&utm_medium=email&utm_source
+=follow 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Nestlé 
+http://twitter.com/NestleMexico_ 
+Sears 
+http://twitter.com/sears 
+Seguros GNP 
+http://twitter.com/GNPSEGUROS 
+Superama 
+http://twitter.com/SuperamaMexico 
+Telcel 
+http://twitter.com/TELCEL 
+Televisa 
+http://twitter.com/televisa 
+TV Azteca 
+http://twitter.com/tv_azteca13 
+VW 
+http://twitter.com/Volkswagen_MX 
+Fuente: elaboración propia 
+ 
+Una vez seleccionada la muestra de empresas y las dos plataformas de redes sociales, el 
+proceso que se siguió fue el siguiente: 
+ Se visitó cada una de las plataformas para encontrar si las empresas analizadas 
+tenían cuenta vigente de Twitter, se validó la cuenta accesando a ella y 
+verificando que en efecto fuera de la empresa elegida y no un nombre ficticio de 
+otra empresa o de otro país.  
+ Con esta validación de la información se tomaron los datos que proporcionan los 
+sitios sobre seguidores, personas que sigue el twitteer, y mensajes enviados para 
+el caso de Twitter; así como el número de amigos para Facebook. 
+ 
+Estos datos se recogieron durante el mes de marzo y octubre de 2010 y se obtuvieron  
+usando un navegador firefox y safari, en una red de banda ancha. 
+ 
+ 
+5. Resultados y Discusión 
+La plataforma de Twitter considera tres características que analizamos: 1. Los 
+seguidores, aquellos usuarios de twitter que se “suscriben” al twitter respectivo para 
+recibir sus aportaciones en forma automática; 2. Siguiendo.- son los usuarios a los 
+cuales se suscribió el propietario del twitter y que desea “seguir” para recibir 
+automáticamente sus mensajes y 3. Tweets o posts, que son los mensajes de 140 
+caracteres que se envían utilizando la plataforma, cada mensaje cuenta como uno. A 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+continuación se presentan los resultados de la recolección de datos y del análisis de 
+estas tres características.  
+ 
+Seguidores 
+La figura 3 muestra los datos de marzo y octubre de las empresas que fueron 
+seleccionadas. Puede también observarse el incremento que ha habido. 
+ 
+Figura 3 Evolución de Seguidores en Twitter 
+ 
+Fuente: elaboración propia 
+ 
+Destacan grandes incrementos que empresas como Seguros GNP y Superama han 
+tenido. Por otra parte, también puede notarse los decrementos en Chrysler, Herdez y 
+VW. 
+Los descriptivos de esta variable (figura 4), muestran que sí existen incrementos 
+importantes entre marzo y octubre, aunque existen algunas empresas que han tenido un 
+decremento en el uso de este componente.  
+ 
+ 
+ 
+ 
+Marzo
+Octubre
+Incrementos
+Banamex
+           127 
+1,176
+        
+826%
+CEMEX
+           107 
+2,117
+        
+1879%
+Chrysler
+        4,522 
+850
+           
+-81%
+Cinemex
+        4,592 
+79,934
+      
+1641%
+Cinepolis
+           438 
+83,350
+      
+18930%
+Deportes Marti
+           183 
+1,080
+        
+490%
+Fundación Televisa
+           542 
+4,623
+        
+753%
+Herdez
+           159 
+5
+               
+-97%
+Honda México (usa)
+        2,325 
+6,229
+        
+168%
+Nestlé
+           516 
+51
+             
+-90%
+Sears
+             91 
+522
+           
+474%
+Seguros GNP
+               5 
+1,072
+        
+21340%
+Superama
+               3 
+784
+           
+26033%
+Telcel
+        3,125 
+32,188
+      
+930%
+Televisa
+           225 
+1,212
+        
+439%
+TV Azteca
+           504 
+23,904
+      
+4643%
+VW
+        1,271 
+289
+           
+-77%
+Seguidores
+Empresa
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura 4 Descriptivos Seguidores 
+ 
+Fuente: elaboración propia 
+ 
+Destaca el promedio de incremento del 46 por ciento, despuntando de esta tendencia 
+empresas como Cinépolis y Cinemex, que han incrementado exponencialmente el uso 
+de esta herramienta. 
+A partir de estos hallazgos, se conformaron cuatro grupos como se muestra en la figura 
+5. 
+ 
+Figura 5 Agrupación de empresas que tienen Seguidores en Twitter 
+ 
+Fuente: elaboración propia 
+ 
+En primer lugar está Cinemex, que para marzo ya tenía un gran número de seguidores y 
+que en octubre tuvo un incremento exponencial. El siguiente grupo se conforma de 
+Chrysler, Honda y Telcel, que mostraron un número importante en seguidores de marzo 
+y que han tenido un pequeño incremento en octubre, en comparación con el resto de la 
+muestra. Por su parte, Cinépolis obtuvo un número regular de seguidores en marzo pero 
+el incremento mostrado en octubre es muy significativo. En el ángulo inferior izquierdo 
+Descriptivos
+Máximo
+Mínimo
+Promedio
+Desv. St.
+Marzo
+4,592
+        
+3
+               
+1,102
+            
+1,558
+        
+Octubre
+83,350
+      
+5
+               
+14,082
+          
+26,978
+      
+Incremento
+26033%
+-97%
+46
+                 
+85
+             
+Chrysler
+Cinemex
+Cinepolis
+Fundación Televisa
+Honda
+Nestlé
+Telcel
+Restantes
+TV Azteca
+VW
+-
+500 
+1,000 
+1,500 
+2,000 
+2,500 
+3,000 
+3,500 
+4,000 
+4,500 
+5,000 
+-
+10,000 
+20,000 
+30,000 
+40,000 
+50,000 
+60,000 
+70,000 
+80,000 
+90,000 
+Seguidores Marzo
+Seguidores Octubre
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+se muestra la mayoría de las empresas analizadas: ellas tuvieron un pequeño número de 
+seguidores en marzo y han tenido un incremento mínimo para octubre. 
+Cabe señalar que las empresas con mayores incrementos son en las que los clientes 
+requieren flujos constantes de información actualizada: las cinematográficas. Por otra 
+parte, las automotrices Honda y Chrysler así como la telefónica Telcel no incrementaron 
+en el número de seguidores seguramente por el tipo de productos que ofrecen: los 
+seguidores no requieren flujos constantes de información.  
+Dos casos llamaron la atención, Chrysler tiene la tendencia a bajar el número de sus 
+seguidores. Gran parte de estos son personas y clientes comunes y algunos más son 
+marcas de tunning (empresas que modifican los autos según los deseos de los clientes). 
+Los tweets que publica, son algunos consejos sobre la educación vial y otros más son de 
+sus promociones. 
+El caso de Honda tiene muchos seguidores y publican comentarios respecto a su auto, 
+ya sea dudas sobre servicios o adulaciones a la marca. Dentro los tweets que publican 
+algunos son retweetes de la cuenta Motor TREND y contestaciones a las dudas de sus 
+seguidores. 
+Con estos gráficos y observaciones fue posible agrupar las empresas como a 
+continuación se describe (figura 6). 
+Figura 6 Características de grupos de empresas que tienen Seguidores en Tweet 
+Grupo Empresas que lo conforman 
+Mar Oct Características 
+1 
+Cinemex 
+++ 
+++ 
+En Marzo presenta ya una gran 
+cantidad de seguidores y en 
+Octubre sigue con la misma 
+tendencia 
+2 
+Chrysler, Honda y Telcel 
+++ 
++- 
+Empresas que ya tenían presencia 
+de seguidores en Marzo y han 
+decrecido o se han incrementado 
+poco para Octubre 
+3 
+Cinepolis 
++- 
+++ 
+Empresas 
+que 
+tenían 
+poca 
+presencia en Marzo y que han 
+tenido un incremento importante 
+en Octubre 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+4 
+VW, Fundación Televisa, 
+Nestlé, 
+TV 
+Azteca, 
+Banamex, 
+CEMEX, 
+Deportes 
+Martí, 
+Herdez, 
+Sears, GNP, Superama y 
+Televisa 
++- 
++- 
+Empresas con poca presencia en 
+Marzo y con un incremento 
+moderando en Octubre 
+ 
+ 
+ 
+ 
+ 
+++  Número importante de seguidores 
+ 
+ 
+ 
+ 
+ 
++-   Número mediano de seguidores 
+Fuente: elaboración propia 
+ 
+ 
+Siguiendo 
+La figura 7 muestra los datos de marzo y octubre de las empresas seleccionadas. Puede 
+observarse también el incremento que ha habido en las cuentas que están siguiendo. 
+ 
+ 
+ 
+ 
+Figura 7 Evolución de Siguiendo en Twitter 
+ 
+Fuente: elaboración propia 
+ 
+Marzo
+Octubre
+Incrementos
+Banamex
+3
+               
+4
+               
+33%
+CEMEX
+-
+            
+-
+            
+0%
+Chrysler
+1,622
+        
+1,952
+        
+20%
+Cinemex
+12
+             
+26
+             
+117%
+Cinepolis
+1
+               
+80
+             
+7900%
+Deportes Marti
+18
+             
+25
+             
+39%
+Fundación Televisa
+21
+             
+111
+           
+429%
+Herdez
+261
+           
+6
+               
+-98%
+Honda México (usa)
+229
+           
+299
+           
+31%
+Nestlé
+2
+               
+1
+               
+-50%
+Sears
+1
+               
+773
+           
+77200%
+Seguros GNP
+21
+             
+1,042
+        
+4862%
+Superama
+-
+            
+1,503
+        
+Telcel
+2,772
+        
+22,769
+      
+721%
+Televisa
+1
+               
+1
+               
+TV Azteca
+-
+            
+549
+           
+VW
+125
+           
+1
+               
+-99%
+Siguiendo
+Empresa
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Destacan un incremento interesante en Sears y menos grandes pero también importantes 
+en Cinépolis y Seguros GNP. Los decrementos VW, Herdez y Nestlé son notorios. 
+La mayoría de las empresas que ya utilizaban este concepto en marzo, han seguido con 
+un número similar en octubre. El que sale de este escenario es Telcel, que ha tenido un 
+importante incremento. 
+Los descriptivos de esta variable (figura 8), muestran que existen empresas con 
+incrementos exponenciales y otras más no han tenido incremento o incluso han 
+presentado un decremento usando esta herramienta. La muestra de las 17 empresas 
+estudiadas obtuvo un promedio de 299 siguiendo para marzo, mientras que en octubre la 
+cifra se sextuplicó alcanzando un promedio de 1,714 siguiendo. 
+ 
+Figura 8 Descriptivos Siguiendo 
+ 
+Fuente: elaboración propia 
+ 
+Empresas como Nestlé, Televisa y VW, presentan un caso diferente y peculiar dado que 
+se siguen así mismos; por ejemplo: televisa sigue a fundación Televisa y Nestlé sigue a 
+“recetas Nestlé”, o bien siguen a twitpic, una herramienta que permite enviar fotos 
+usando Twitter, esto significa desconocimiento de la herramienta porque no la utilizan 
+para ponerse en contacto con clientes y ni siquiera con proveedores. 
+En el caso de Herdez encontramos cuatro cuentas que son de marcas de productos de la 
+misma empresa: Doña María, kikkonmanmx, Lagloriamx, Delfuertemx. Banamex 
+presenta el mismo caso siguiendo a:  futbol Banamex, usuarios Banamex, ofertas 
+Banamex y tarjetas Banamex. 
+Esta estrategia de segmentar o definir sus perfiles de twitter, puede ser estudiada para 
+determinar la efectividad de las redes sociales tecnológicas en la generación de valor de 
+las empresas. 
+Con estas observaciones, se construyó el gráfico mostrado en la figura 8, para agrupar a 
+las empresas bajo el rubro de siguiendo. 
+ 
+ 
+Descriptivos
+Máximo
+Mínimo
+Promedio
+Desv. St.
+Marzo
+2,772
+        
+-
+            
+299
+              
+747
+           
+Octubre
+22,769
+      
+-
+            
+1,714
+           
+5,458
+        
+Incremento
+77200%
+-99%
+65
+                
+205
+           
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura 8 Agrupación de empresas en Siguiendo de Twitter 
+ 
+Fuente: elaboración propia 
+ 
+Puede observarse que Telcel sale de la tendencia de las demás empresas analizadas, ya 
+que en marzo ya tenía un gran número de siguiendo; para octubre su crecimiento ha sido 
+importante (Ver figura 7), por lo que es la única empresa de la muestra que se ubica en 
+el ángulo superior derecho. 
+Por su parte,  en el ángulo superior izquierdo nuevamente se ubica la empresa Chrysler, 
+que en marzo era una de las empresas que estaba utilizando enormemente la 
+herramienta de siguiendo –al igual que la de seguidores- y para octubre no ha tenido un 
+incremento importante, quedándose prácticamente igual con todas las cuentas que 
+estaba siguiendo. 
+En el último grupo se ubican todas las demás empresas analizadas en este estudio, lo 
+que nos indica una clara tendencia del poco uso de la herramienta “siguiendo”, ya que 
+en marzo tenían un número limitado y en octubre presentan un pequeño o nulo 
+incremento.  
+ 
+Con el análisis de los descriptivos y del gráfico de agrupación de empresas, se 
+construyó el siguiente cuadro (figura 9). En él se resumen los hallazgos encontrados en 
+cada grupo.  
+ 
+ 
+Restantes
+Chrlysler
+Herdez
+Honda
+TV Azteca
+GNP
+Telcel
+VW
+-
+500 
+1,000 
+1,500 
+2,000 
+2,500 
+3,000 
+-
+5,000 
+10,000 
+15,000 
+20,000 
+25,000 
+Siguiendo Marzo 
+Siguiendo Octubre
+Superama
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura 9 Características de grupos de empresas en Siguiendo de Twitter 
+Grupo Empresas que lo conforman 
+Mar Oct Características 
+1 
+Telcel 
+++ 
+++ 
+En Marzo presenta ya una gran 
+cantidad de siguiendo 
+y 
+en 
+Octubre sigue con la misma 
+tendencia 
+2 
+Chrysler 
+++ 
++- 
+Empresas que ya tenían presencia 
+de siguiendo en Marzo y se han 
+incrementado poco para Octubre 
+3 
+Cinemex, Cinépolis, Honda, 
+VW, Fundación Televisa, 
+Nestlé, 
+TV 
+Azteca, 
+Banamex, 
+CEMEX, 
+Deportes 
+Martí, 
+Herdez, 
+Sears, GNP, Superama y 
+Televisa 
++- 
++- 
+Empresas con poca presencia en 
+Marzo y con un incremento 
+moderando en Octubre 
+ 
+ 
+ 
+ 
+ 
+++ Número importante de siguiendo 
+ 
+ 
+ 
+ 
+ 
++-  Número mediano de siguiendo 
+Fuente: elaboración propia 
+ 
+La empresa Telcel ha utilizado “siguiendo” como estrategia para acercarse a sus 
+clientes, razón por la cual el incremento presentado ha sido el más grande de las 
+empresas analizadas. En el segundo grupo se encuentra Chrysler, empresa que había 
+utilizado esta herramienta para acercarse a clientes y proveedores. Sin embargo, para 
+octubre su estrategia cambió porque se han quedado con el mismo número de cuentas a 
+seguir, valdría la pena analizar por qué.  Por último está el grupo que no ha utilizado 
+esta herramienta como una estrategia de comunicación con clientes y proveedores, que 
+son la gran mayoría de las empresas analizadas.  
+ 
+ 
+ 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Tweets 
+La figura 10 muestra los datos de marzo y octubre de las empresas que fueron 
+seleccionadas. Puede también observarse el incremento que ha habido en las cuentas 
+que están siguiendo. 
+ 
+Figura 10 Evolución de Tweets en Twitter 
+ 
+Fuente: elaboración propia 
+ 
+Destacan un alto incremento en Honda y TV Azteca y menos grandes pero también 
+importantes en Deportes Martí, Nestlé y Fundación Televisa. Cabe señalar el poco o 
+nulo uso de esta herramienta en Banamex, Herdez, Sears y Televisa.  
+Los descriptivos de esta variable (figura 11), muestran que existen empresas en las que 
+prácticamente desconocen esta herramienta como una estrategia de comunicación con 
+clientes y proveedores. Otras, sin embargo, comienzan a observar sus beneficios. Sin 
+embargo, el promedio de incremento de uso de tweets es relativamente menor que las 
+otras dos herramientas previamente analizadas en este estudio. 
+ 
+ 
+ 
+Marzo
+Octubre
+Incremento
+Banamex
+             19 
+CEMEX
+50
+             
+           128 
+156%
+Chrysler
+150
+           
+           617 
+311%
+Cinemex
+800
+           
+        4,002 
+400%
+Cinepolis
+658
+           
+        5,137 
+681%
+Deportes Marti
+21
+             
+           334 
+1490%
+Fundación Televisa
+17
+             
+           234 
+1276%
+Herdez
+-
+            
+              -   
+Honda México (usa)
+14
+             
+           370 
+2543%
+Nestlé
+1
+               
+             15 
+1400%
+Sears
+-
+            
+               1 
+Seguros GNP
+36
+             
+             36 
+0%
+Superama
+250
+           
+           533 
+113%
+Telcel
+2,584
+        
+        6,545 
+153%
+Televisa
+-
+            
+              -   
+TV Azteca
+14
+             
+           293 
+1993%
+VW
+20
+             
+             60 
+200%
+Tweets
+Empresa
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+ 
+Figura 11 Descriptivos Tweets. 
+ 
+Fuente: elaboración propia 
+ 
+Con esta información, se conformaron tres grupos como se muestra en la figura 12. En 
+el primero de ellos, se encuentra Telcel, nuevamente en el ángulo superior derecho, lo 
+que muestra que ha mantenido desde marzo y hasta octubre una estrategia de 
+acercamiento con sus clientes a través de los tweets. 
+Figura 12 Agrupación de empresas en Tweets 
+ 
+Fuente: elaboración propia 
+ 
+El siguiente grupo conformado por Cinemex y Cinépolis, ha tenido un crecimiento 
+importante para octubre, ya que en marzo el número de tweets registrado no era 
+trascendente. En el tercer grupo se encuentran todas las demás empresas analizadas. Su 
+común denominador es que no han utilizado la estrategia del uso de tweets para 
+acercarse a su público ni a sus proveedores. 
+Con estas observaciones fue posible construir el siguiente cuadro (figura 13). 
+ 
+Descriptivos
+Máximo
+Mínimo
+Promedio
+Desv. St.
+Marzo
+2,584
+        
+-
+            
+288
+             
+659
+           
+Octubre
+6,545
+        
+-
+            
+1,078
+          
+2,040
+        
+Incremento
+2543%
+0%
+8
+                 
+8
+               
+Cinemex 
+Cinepolis 
+Telcel 
+Restantes
+-500 
+-
+500 
+1,000 
+1,500 
+2,000 
+2,500 
+3,000 
+-
+1,000 
+2,000 
+3,000 
+4,000 
+5,000 
+6,000 
+7,000 
+Tweets Marzo
+Tweets Octubre
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+ 
+ 
+Figura13 Características de grupos de empresas en Tweets 
+Grupo Empresas que lo conforman 
+Mar Oct Características 
+1 
+Telcel 
+++ 
+++ 
+En Marzo presenta ya una gran 
+cantidad de tweets y en Octubre 
+sigue con la misma tendencia 
+2 
+Cinemex y Cinepolis 
++- 
+++ 
+Empresas que tenían presencia 
+moderada de tweets en Marzo y se 
+han incrementado en un alto 
+porcentaje para Octubre 
+3 
+Chrysler, 
+Honda, 
+VW, 
+Fundación Televisa, Nestlé, 
+TV 
+Azteca, 
+Banamex, 
+CEMEX, Deportes Martí, 
+Herdez, 
+Sears, 
+GNP, 
+Superama y Televisa 
++- 
++- 
+Empresas con poca presencia en 
+Marzo y con un incremento 
+moderando en Octubre 
+ 
+ 
+ 
+ 
+ 
+++ Número importante de tweets 
+ 
+ 
+ 
+ 
+ 
++-  Número mediano de tweets 
+Fuente: elaboración propia 
+ 
+El primer grupo conformado sólo por telcel, se caracteriza por utilizar los tweets como 
+una estrategia de comunicación y acercamiento con sus clientes y proveedores. El grupo 
+conformado por Cinemex y Cinepolis presenta un incremento importante en seis meses 
+generando una estrategia de acercamiento por medio de los tweet, ya que sus clientes 
+requieren de información constante y oportuna y realizan comentarios sobre las 
+películas exhibidas. El último grupo utiliza moderadamente los tweets, todavía no lo 
+contempla dentro de sus estrategias de flujo de información 
+La mayoría de las empresas de la muestra siguen la misma tendencia en las tres 
+herramientas de tweeter. Para descubrir posibles relaciones entre empresas, se 
+analizaron las correlaciones entre las variables utilizadas en este estudio (ver figura 14), 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+aplicando la propuesta por Spearman por tratarse de estadística no paramétrica 
+(ALVAREZ, 1994; SPRENT y SMEETON, 2007).  
+De este análisis puede observarse que existe una alta correlación de la variable Tweets 
+en los distintos meses, tal vez porque es la herramienta que más se ha conocido y 
+difundido. 
+Cabe señalar las altas correlaciones que guardan seguidores y siguiendo de octubre con 
+tweets de octubre: podría entonces sugerirse que la primera herramienta que se prueba 
+es tweets y ya dominándola se utiliza seguidores y siguiendo. 
+ 
+Figura14 Correlación de Spearman para las variables en el estudio 
+ 
+Fuente: SPSS 15.0 
+ 
+Por último, vale la pena destacar la alta correlación obtenida entre los incrementos de 
+seguidores y  siguiendo. 
+Estas correlaciones ayudaron a generar las bases para analizar el impacto de cada una de 
+las herramientas dentro de las redes sociales en las empresas estudiadas. Considerando 
+los datos de octubre por ser los que presentaron mayores correlaciones, se utilizó el 
+análisis factorial exploratorio bajo el método de componentes principales (COSTELLO 
+y OSBORNE, 2005), tomando el porcentaje de varianza para otorgar un peso a cada 
+herramienta de las redes sociales (figura 15). 
+ 
+ 
+ 
+Seguidores 
+Marzo
+1.000
+Seguidores 
+Octubre
+0.387
+1.000
+Siguiendo 
+Marzo
+0.542 *
+-0.115
+1.000
+Siguiendo 
+Octubre
+0.091
+0.182
+0.274
+1.000
+Tweets 
+Marzo
+0.280
+0.533 *
+0.095
+0.380
+1.000
+Tweets 
+Octubre
+0.493 *
+0.646 **
+0.166
+0.532 *
+0.860 **
+1.000
+Incremento 
+Seguidores
+-0.370
+0.542 *
+-0.511 *
+0.327
+0.570 *
+0.440
+1.000
+Incremento 
+Siguiendo
+-0.222
+0.534 *
+-0.276
+0.656 *
+0.370
+0.385
+0.798 **
+1.000
+Incremento 
+Tweets
+0.264
+0.231
+-0.061
+-0.278
+-0.624 *
+-0.033
+-0.440
+0.273
+1.000
+* Correlación significativa en un nivel del .05 (2 colas)
+** Correlación significativa en un nivel del .01 (2 colas)
+Seguidores 
+Marzo
+Seguidores 
+Octubre
+Siguiendo 
+Marzo
+Incremento 
+Siguiendo
+Incremento 
+Tweets
+Incremento 
+Seguidores
+Tweets 
+Octubre
+Tweets 
+Marzo
+Siguiendo 
+Octubre
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura15 Resultados del Análisis Factorial Exploratorio. Matriz de puntaje del Índice 
+Variable 
+Puntaje 
+Seguidores 
+32.20% 
+Siguiendo 
+28.02% 
+Tweets 
+39.78% 
+Fuente: SPSS 15.0 
+ 
+De acuerdo con los resultados del análisis factorial, puede distinguirse que la 
+herramienta que tiene mayor peso en el uso de las redes sociales es “tweets”, al que se le 
+adjudica casi el 40% del valor del índice. En seguida, la variable “seguidores” que tiene 
+un impacto del 28% en la conformación del índice de uso de las redes sociales (IRS). 
+Por último está “siguiendo”, con el 28%. 
+Con estos pesos se establecieron doscientos rangos para agrupar los datos recogidos en 
+octubre de cada variable, asignándole un valor incremental a cada uno y multiplicándolo 
+por el peso asignado en el análisis factorial, con el fin de armar el IRS para cada 
+empresa, que tiene como componentes, en primer lugar, el flujo de información, que 
+incluye seguidores y tweets, ya que son las herramientas que el público tiene para 
+informarse sobre las novedades, productos y servicios de las empresas; el segundo 
+componente es participación, que se refleja en la variable siguiendo, en donde puede 
+observarse la comunicación que la empresa mantiene con el público (figura 16). 
+Con esto, fue posible homogeneizar los criterios de calificación para cada variable y 
+empresa, distinguiendo tres grupos que coinciden con el modelo de análisis de redes 
+sociales sugerido (figura 17). 
+El primer grupo de conocimiento sólo se encuentra la empresa telcel, ya que su servicio 
+precisamente tiene que ver con telecomunicaciones. El flujo de información y la 
+participación del público es muy fluido. 
+En el segundo grupo denominado “cooperación” no se ubicó ninguna de las empresas 
+analizadas. Esto puede marcar una tendencia: los que utilizan la herramienta de 
+siguiendo es porque antes ya se han familiarizado con seguidores y tweets. 
+En tercer lugar tenemos el grupo “colaboración”. Aquí se ubican las empresas 
+cinematográficas de las que el público requiere flujo constante de información sobre la 
+cartelera cinematográfica, críticas, promociones, etc. 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Figura16 Conformación del índice de uso de redes sociales 
+ 
+Fuente: elaboración propia 
+ 
+En último lugar está el grupo “intercambio”, en el que se ubica la mayoría de las 
+empresas analizadas. Éstas han utilizado poco las redes sociales, aunque comienzan a 
+generar flujos de información con sus clientes. 
+De acuerdo con los datos obtenidos a través del IRS, la mayoría de las empresas se 
+encuentran dentro de la etapa de colaboración que es una de las primeras etapas en el 
+uso de esta herramienta de redes sociales. Solamente tres de ellas –Telcel, Cinépolis y 
+Cinemex –están explotando ampliamente sus capacidades y utilizándolas para el 
+desarrollo de sus estrategias de mercadotecnia. 
+Este modelo para medir el impacto de twitter en el desempeño de las empresas requiere 
+estudiarse aún más, validarse con más datos y ejemplos de otras empresas. Sin embargo, 
+se trata de un punto de partida para entender cómo las redes sociales han impactado la 
+comunicación de las empresas con sus clientes. 
+Otro elemento que es necesario explorar con mayor detenimiento son aquellas 
+compañías que abrieron su página de twitter pero que no siguieron utilizando esta 
+Participación
+Seguidores
+Tweets
+Total
+Siguiendo
+Telcel
+32.36%
+39.98%
+72.3%
+7.85%
+80.18
+       
+Cinepolis
+32.36%
+34.01%
+66.4%
+0.00%
+66.37
+       
+Cinemex
+32.36%
+26.45%
+58.8%
+0.00%
+58.81
+       
+TV Azteca
+32.36%
+1.79%
+34.1%
+0.14%
+34.29
+       
+Honda México (usa)
+9.98%
+2.39%
+12.4%
+0.00%
+12.37
+       
+Fundación Televisa
+7.41%
+1.39%
+8.8%
+0.00%
+8.80
+         
+Chrysler
+1.29%
+3.98%
+5.3%
+0.56%
+5.83
+         
+Superama
+1.13%
+3.38%
+4.5%
+0.42%
+4.93
+         
+CEMEX
+3.38%
+0.80%
+4.2%
+0.00%
+4.18
+         
+Deportes Marti
+1.61%
+2.19%
+3.8%
+0.00%
+3.80
+         
+Seguros GNP
+1.61%
+0.20%
+1.8%
+0.28%
+2.09
+         
+Televisa
+1.93%
+0.00%
+1.9%
+0.00%
+1.93
+         
+Banamex
+1.77%
+0.00%
+1.8%
+0.00%
+1.77
+         
+Sears
+0.80%
+0.00%
+0.8%
+0.14%
+0.95
+         
+VW
+0.32%
+0.20%
+0.5%
+0.00%
+0.52
+         
+Herdez
+0.00%
+0.00%
+0.0%
+0.00%
+-
+           
+Nestlé
+0.00%
+0.00%
+0.0%
+0.00%
+-
+           
+Empresa
+Indicador 
+Final
+Flujo de información
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+herramienta. Habría que determinar si es por desconocimiento, por estrategia, o como 
+resultado de las circunstancias del sector o industria donde se desempeña la compañía. 
+ 
+ 
+Figura 17 Modelo de análisis de Redes Sociales y análisis de empresas 
+ 
+Grupo 
+Empresas que lo conforman 
+Características 
+Conocimiento Telcel 
+Empresas que han utilizado las 
+redes sociales como estrategia de 
+participación 
+con 
+el 
+público, 
+manteniendo 
+un 
+flujo 
+de 
+información constante. 
+Cooperación 
+ 
+Empresas que utilizan las redes 
+sociales para generar participación 
+con el público, aunque mantienen 
+un flujo de información moderado 
+Colaboración 
+Cinépolis y Cinemex  
+Empresas que han utilizado las 
+redes sociales para que el público 
+Telcel
+Cinepolis
+Cinemex
+TVAzteca
+Restantes
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Participación
+Flujo de información
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+obtenga 
+información 
+constante, 
+pero participa en forma moderada 
+con las personas. 
+Intercambio 
+TV Azteca, Honda, Fundación 
+Televisa, Chrysler, Superama, 
+Cemex, 
+Deportes 
+Martí, 
+Seguros 
+GNP, 
+Televisa, 
+Banamex, Sears, VW, Herdez 
+y Nestlé 
+Empresas que han utilizado poco 
+las redes sociales para comunicarse, 
+por 
+lo 
+que 
+la 
+participación 
+registrada y el flujo de información 
+es pobre 
+Fuente: elaboración propia 
+ 
+ 
+Las redes sociales es un fenómeno nuevo que comienza a estudiarse. Esta investigación 
+puede servir para establecer algunas bases para realizar análisis de cómo las empresas 
+están utilizando estas herramientas virtuales para aumentar sus redes sociales para 
+generar estrategias con nuevos clientes o mantener a sus clientes y socios actuales. Sin 
+embargo, la poca información encontrada no permite que el índice propuesto pueda 
+adaptarse a otros estudios, por lo que deberán realizarse otras investigaciones para 
+confirmar el índice y el modelo. 
+A pesar de estas limitaciones, este estudio genera evidencia para poder afirmar que las 
+empresas que más están utilizando las redes sociales para acercarse a su público, son las 
+del giro de telecomunicaciones y entretenimiento, esto parece explicarse por que son las 
+que mayor impacto han recibido de la tecnología al ampliar el uso de las tecnologías de 
+información y comunicación TIC’s y al comercializar más el entretenimiento – videos 
+en línea, BlueRay, venta de canciones por internet – su vinculación es mayor. Quedan 
+varios retos por estudiar producto de esta investigación, como determinar ¿Cuál es la 
+estrategia correcta para invertir en redes sociales? ¿Qué impacto tienen en consumidores 
+finales y en proveedores? ¿Cuál es el uso de las redes sociales al interior de las 
+empresas? Son algunas de las cuestiones que quedan sin resolver y que seguramente 
+serán producto de discusiones posteriores en las investigaciones porvenir. 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+Bibliografía 
+AGUAYO, O. Es México Octavo Lugar twitteando. Reforma, p. negocios.2010, 
+disponible en. 
+ALVAREZ, R. Estadística multivariable y no paramétrica con SPSS: aplicación a las 
+Ciencias de la Salud. Barcelona: Díaz de Santos, 1994. 
+ 
+AMIPCI. Hábitos de Usuarios de Internet en México. . mexico City: AMIPCI. 2009. 
+BAUMGARTNER, J. C. y MORRIS, J. S. MyFaceTube Politics: Social Networking 
+Web Sites and Political Engagement of Young Adults. Social Science Computer 
+Review, 28(1), 24-44, 2010. 
+ 
+BOUDREAU, M. G. D. A. S. D. Validation in Information Systems Research: A state 
+of the Art Assesment. MIS Quarterly, 25(1), 1-16, 2001. 
+ 
+CARR, N. G. Hypermediation: Commerce as a clickstream. Harvard Business Review, 
+10 -12, 2000. 
+ 
+CASTELLS, M. Comunicación y Poder (M. H. DÍAZ, Trans.). Madrid, España: 
+Alianza Editorial, 2009. 
+ 
+COLLIN, P. Building and Connecting to Online Communities for Action: Young 
+People, ICT and Everyday Politics. International Journal of E-Politics (IJEP), 1(3), 1-
+18, 2010. 
+ 
+COMSCORE y MARCHANT, V. State of the Internet with Focus on Mexico and Latin 
+America (PPt). Mexico: ComScore. 2010. 
+ 
+COSTELLO, A. B. y OSBORNE, G. W. Best Practices in Exploratory Factor Analysis: 
+Four Recommendations for Getting the Most Form Your Analysis. Practical 
+Assessment, Research & Evaluation, 10(7), 9, 2005. 
+ 
+CHAUVIN, S. y BOWDISH, B. An Exploratory Factor Analysis to establishthe 
+construct validity of the teaching and learning environment questionnarie. En  Annual 
+Meeting of the American Educational Research Association.  1998 
+ 
+DE VICENTE, M. A. El análisis factorial y por componentes principales. En J.-P. 
+LÉVY y J. VARELA (Eds.), Análisis Multivariable para las Ciencias Sociales. Madrid: 
+Pearson Prentice Hall. 2003 
+ 
+DURAN, M. Las redes sociales corporativas como soporte profesional de las empresas 
+(electronico). Madrid: N-Economia. 2010 
+ 
+DUTTON, W. H. The Fifth Estate Emerging through the Network of Networks. 
+Prometheus, 27(1), 1 - 15 %U 2009. 
+ 
+ELLISON, N. B. y BOYD, M. D. Social Network Sites: Definition, History, and 
+Scholarship. Computer-Mediated Comunication, 13(1), 2007. 
+ 
+FUCHS, C. Social Networking Sites and Complex Technology Assessment. 
+International Journal of E-Politics (IJEP), 1(3), 19-38, 2010. 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+ 
+GALLIERS, R. A. L. F. y MYERS M, A. D.  Choosing Appropriate Information 
+Systems Research Methodologies. (Vol. 1st, pp. 13-16). Great Britain: SAGE 
+Publications. 2002 
+GAYATRI, S. "Do social Networks improve e-comerce?: a study on  social  
+marketplaces,". Proceedings of the  first workshop on Online social networks, 1, 1-6, 
+2008. 
+ 
+HARGITTAI, E. Whose Space? Differences Among Users and Non-Users of Social 
+Network Sites Journal of Computer-Mediated Communication, 13(1), 2007. 
+ 
+HAY, M., GEROME MIKLAU, DAVID JENSEN, DON TOWSLEY y WEIS, P. 
+Resisting Structural Reidentification in Anonymized Social Networks. Proceedings of 
+the VLDB Endowment, 1(1), 102 -114, 2008. 
+ 
+KATZ, N., LAZER, D., ARROW, H. y CONTRACTOR, N. Network theory and Small 
+Groups. Small Group Research, 35, 1-15, 2004. 
+ 
+KERLINGER, F. y LEE, H. Investigación del Comportamiento: métodos de 
+investigación en Ciencias Sociales (Cuarta ed.). México: Mc Graw Hill, 2002. 
+ 
+KRISHNAMURTHY, B. y WILLS, C. E. Characterizing privacy in online social 
+networks, Proceedings of the first workshop on Online social networks (pp. 37-42 %@ 
+978-971-60558-60182-60558 
+%U 
+http://portal.acm.org/citation.cfm?id=1397735.1397744). Seattle, WA, USA: ACM. 
+2008. 
+ 
+KUMAR, R., NOVAK, J. y TOMKINS, A. Structure and Evolution of Online Social 
+Networks. En: Structure  and  evolution of  online Social networks 2006. 
+ 
+LICCARDI, E. A. L. "The  role of social  networks  in students' learning experiences". 
+Working group reports on ITiCSE on Innovation and technology in computer science 
+education 224-237, 2007. 
+ 
+LIU, H. Social Network Profiles as Taste Performances. Computer-Mediated 
+Comunication, 13(1), 2007. 
+ 
+MATUK, J. ¿Cuántos y en dónde? , 2010. 
+ 
+PEREZ-BOLDE, G. Estudio de Twitter en Mexico., 2009. 
+ 
+SIEGEL, D. A. Social Networks and Collective Action. American Journal of Political 
+Science, 53(1), 122-138, 2009. 
+ 
+SPRENT, P. y SMEETON, N. Applied Nonparametric Statistical Methods. Boca Raton, 
+Florida: Chapman &Hall/CRC, 2007. 
+ 
+SUDWEEKS, F. S. S. y JONES, S.  Complementary Explorative Data Analysis (Vol. 
+1st, pp. 29-55). California USA: SAGE Publications. 1999 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
+SWAMYNATHAN, G., WILSON, C., BOE, B., ALMEROTH, K. y ZHAO, B. Y. Do 
+social networks improve e-commerce?: a study on social marketplaces, Proceedings of 
+the first workshop on Online social networks (pp. 1-6). Seattle, WA, USA: ACM. 2008. 
+ 
+SYLVIE, R. A. Defining the Networked Community Movement, 2009. 
+ 
+VARGAS, A. Estadísticas del Uso de Twitter en Mexico. In A. VARGAS (Ed.), 
+conecti.ca (Vol. 2010). Mexico City. 2010. 
+ 
+VÁZQUEZ, T. y MÉNDEZ., Á. Redes sociales, bienvenidos a la era de la 
+Colaboración. . Publicado en Línea por Expansión y Empleo., 2009. 
+ 
+WILLIAMS, K. y DURRANCE, J. C. Social Networks and Social Capital: Rethinking 
+Theory in Community Informatics. The Journal of Community Informatics, 4(3), 2008. 
+ 
+WIP, W. I. P. Estudio 2009 de Hábitos y percepciones de los mexicanos sobre internet y 
+diversas tecnologías asociadas., 2009. 
+ 
+ZHANG, W., JOHNSON, T. J., SELTZER, T. y BICHARD, S. L. The Revolution Will 
+be Networked: The Influence of Social Networking Sites on Political Attitudes and 
+Behavior. Social Science Computer Review, 28(1), 75-92, 2010. 
+ 
+ 
+RAZÓN Y PALABRA 
+Primera Revista Electrónica en América Latina Especializada en Comunicación 
+www.razonypalabra.org.mx
+Comunicación como valor de desarrollo social 
+NÚMERO 80 AGOSTO - OCTUBRE 2012
+
+-----
