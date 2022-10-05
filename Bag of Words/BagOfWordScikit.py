@@ -6,8 +6,9 @@ with open('./Conversation/CONV3.txt', 'r' ,encoding="utf8") as MyFile:
     texto = MyFile.read()
 
 texto = texto.replace('\n','.\n')
+print(texto)
 sent_tokens = sent_tokenize(texto, 'english')
-
+print(sent_tokens)
 
 vectorizer = CountVectorizer(stop_words='english', ngram_range=(2,2))
 X = vectorizer.fit_transform(sent_tokens)
