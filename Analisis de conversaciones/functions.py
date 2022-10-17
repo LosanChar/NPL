@@ -48,6 +48,8 @@ def GenerarDF(tokens):
     subcolumnas = []
     i = 0
     j = 0
+    row = 0
+    escrito = pd.ExcelWriter('resultados.xlsx')
     for fila in filas:
         for itm in fila:
             if(itm != 0):
@@ -55,14 +57,23 @@ def GenerarDF(tokens):
                 subcolumnas.append(columnas[i])
             i = i+1
         arreglo = np.array(subfila)
-        df_tmp = pd.DataFrame(arreglo,subcolumnas)
-        df_tmp.head()
+        df_tmp = pd.DataFrame(arreglo, subcolumnas)
+        #df_tmp.head()
+        df_trans = df_tmp.transpose()
+        
+        
+        df_trans.to_excel(escrito, startrow= row)
+        escrito.save()
+        row = row + 3
         i = 0
         j = j+1
         subfila = []
         subcolumnas = []
-        print(df_tmp.to_markdown())
+        print(df_trans.to_markdown())
         print("\n")
+
+#def EscribirDF(df):
+    
 
     '''
     print(filas[0][0])
