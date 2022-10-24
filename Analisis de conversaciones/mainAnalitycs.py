@@ -6,6 +6,6 @@ from functions import ObtenerNombres
 print("Ingresa el url:")
 url = input()
 chatTxtPlain = AplicarWebScrap(url)
-ObtenerNombres(chatTxtPlain)
+#ObtenerNombres(chatTxtPlain)
 sentences_tokens = LimpiarTexto(chatTxtPlain)
 GenerarDF(sentences_tokens)

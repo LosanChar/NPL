@@ -50,7 +50,7 @@ def GenerarDF(tokens):
     i = 0
     j = 0
     row = 0
-    escrito = pd.ExcelWriter('resultados.xlsx')
+    escrito = pd.ExcelWriter('./Analisis de conversaciones/resultados.xlsx')
 
     for fila in filas:
         for itm in fila:
@@ -86,7 +86,7 @@ def GenerarDF(tokens):
     '''
 
 from spacy.tokens import Span
-import dateparser
+#import dateparser
 
 #@Language.component ("expand_person_entities")
 def expand_person_entities(doc):
