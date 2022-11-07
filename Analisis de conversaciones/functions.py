@@ -21,6 +21,8 @@ def AplicarWebScrap(URL):
 
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 import numpy as np
 
@@ -88,37 +90,14 @@ def GenerarDF(tokens):
 from spacy.tokens import Span
 #import dateparser
 
-#@Language.component ("expand_person_entities")
-def expand_person_entities(doc):
-    new_ents = []
-    for ent in doc.ents:
-        # Only check for title if it's a person and not the first token
-        if ent.label_ == "PERSON":
-            if ent.start != 0:
-                # if person preceded by title, include title in entity
-                prev_token = doc[ent.start - 1]
-                if prev_token.text in ("Dr", "Dr.", "Mr", "Mr.", "Ms", "Ms."):
-                    new_ent = Span(doc, ent.start - 1, ent.end, label=ent.label)
-                    new_ents.append(new_ent)
-                else:
-                    # if entity can be parsed as a date, it's not a person
-                    if dateparser.parse(ent.text) is None:
-                        new_ents.append(ent) 
-        else:
-            new_ents.append(ent)
-    doc.ents = new_ents
-    return doc
-
 import spacy
 from spacy.symbols import nsubj, VERB
+
 def ObtenerNombres(doc):
     nlp = spacy.load('en_core_web_sm')
     
-    #nlp.add_pipe("expand_person_entities", after='ner')
 
     sents = nlp(doc)
-    #names = [(ent.text, ent.label_) for ent in doc.ents if ent.label_=='PERSON']
-    #names = [ee for ee in sents.ents if ee.label_ == 'PERSON']
     for ent in sents.ents:
         if(ent.label_ == 'PERSON' or ent.label_ == 'GPE'):
             print(ent.text, ent.label_)
@@ -128,3 +107,24 @@ def ObtenerNombres(doc):
         if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
             verbs.add(possible_subject.head)
     print(verbs)
+
+from spacy.matcher import Matcher
+def ObtenerAdjetivos(txt):
+    nlp = spacy.load('en_core_web_sm')
+    matcher = Matcher(nlp.vocab)
+
+    patterns = [
+        [{'POS':'ADJ'}, {'POS':'NOUN'}],
+        ]
+    matcher.add("chat", patterns)
+
+    doc = nlp(txt)
+    matches = matcher(doc)
+    for match_id, start, end in matches:
+        string_id = nlp.vocab.strings[match_id]  # Get string representation
+        span = doc[start:end]  # The matched span
+        print( span.text)
+
+    
+
+
