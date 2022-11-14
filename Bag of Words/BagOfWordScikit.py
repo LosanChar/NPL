@@ -10,7 +10,7 @@ print(texto)
 sent_tokens = sent_tokenize(texto, 'english')
 print(sent_tokens)
 
-vectorizer = CountVectorizer(stop_words='english', ngram_range=(2,2))
+vectorizer = CountVectorizer(stop_words='english')
 X = vectorizer.fit_transform(sent_tokens)
 
 df_bow_sklearn = pd.DataFrame(X.toarray(), columns = vectorizer.get_feature_names_out())

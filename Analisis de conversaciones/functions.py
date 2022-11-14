@@ -88,25 +88,29 @@ def GenerarDF(tokens):
     '''
 
 from spacy.tokens import Span
-#import dateparser
-
 import spacy
 from spacy.symbols import nsubj, VERB
 
-def ObtenerNombres(doc):
+def ObtenerNombresYVerbos(doc):
     nlp = spacy.load('en_core_web_sm')
-    
-
     sents = nlp(doc)
+
+    names = set()
     for ent in sents.ents:
         if(ent.label_ == 'PERSON' or ent.label_ == 'GPE'):
-            print(ent.text, ent.label_)
-    
-    verbs = set()
+            names.add(ent.text)
+            #print(ent.text, ent.label_)
+
+    CreateBagOfWords(names,"BoW-names.csv")
+
+    verbs = []
     for possible_subject in sents:
         if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
-            verbs.add(possible_subject.head)
-    print(verbs)
+            verbs.append(possible_subject.head.text)
+    
+    CreateBagOfWords(verbs, "Bow-verbs.csv")
+
+    #print(verbs)
 
 from spacy.matcher import Matcher
 def ObtenerAdjetivos(txt):
@@ -120,10 +124,23 @@ def ObtenerAdjetivos(txt):
 
     doc = nlp(txt)
     matches = matcher(doc)
+
+    adjetives = []
+
     for match_id, start, end in matches:
-        string_id = nlp.vocab.strings[match_id]  # Get string representation
         span = doc[start:end]  # The matched span
-        print( span.text)
+        adjetives.append(span.text)
+
+    CreateBagOfWords(adjetives, "BoW-adjetives.csv")
+
+def CreateBagOfWords(token_list, name_file):
+    vectorizer = CountVectorizer(stop_words='english')
+    X = vectorizer.fit_transform(token_list)
+
+    df_bow_sklearn = pd.DataFrame(X.toarray(), columns = vectorizer.get_feature_names_out())
+    df_bow_sklearn.head()
+
+    df_bow_sklearn.to_csv("./Analisis de conversaciones/"+name_file)
 
     
 
