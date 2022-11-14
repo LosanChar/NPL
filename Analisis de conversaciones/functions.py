@@ -16,6 +16,9 @@ def AplicarWebScrap(URL):
     #buscamos la etiqueta que contiene la conversacion
     chatTxtPlain = soup.body.find('div',attrs={'class':'chatLog'}).text
     #test = soup.body.find('span',attrs={'class':'code_chat'}).b.text
+
+    chatTxtPlain = DeleteDateTime(chatTxtPlain)
+
     return chatTxtPlain
 
 
@@ -143,5 +146,22 @@ def CreateBagOfWords(token_list, name_file):
     df_bow_sklearn.to_csv("./Analisis de conversaciones/"+name_file)
 
     
+import re 
+def DeleteDateTime(text):
+    match = re.findall(r'\d{1,2}:\d{1,2}:\d{1,2}', text)
 
+    for itm in match:
+        text = text.replace(itm, "")
+
+    match = re.findall(r'[aAPp][m|M]|[aAPp].[m|M].|[aAPp][m|M].|[aAPp].[m|M]', text)
+
+    for itm in match:
+        text = text.replace(itm, "")
+
+    match = re.findall(r'\d{2,4}[/,-]\d{1,2}[/,-]\d{2,4}', text)
+
+    for itm in match:
+        text = text.replace(itm, "")
+
+    return text
 
