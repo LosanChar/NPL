@@ -11,3 +11,4 @@ ObtenerAdjetivos(chatTxtPlain)
 ObtenerNombresYVerbos(chatTxtPlain)
 sentences_tokens = LimpiarTexto(chatTxtPlain)
 GenerarDF(sentences_tokens)
+
